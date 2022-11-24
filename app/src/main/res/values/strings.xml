@@ -1,4 +1,7 @@
 <resources>
+    //Network resources
+    <string name="urlAPI">http://192.168.1.3:3000</string>
+    //layout resources
     <string name="app_name">PF-Enrutados</string>
     <string name="titulo_inicio">Hola a todos!!</string>
     <string name="titulo_login">Login :)</string>

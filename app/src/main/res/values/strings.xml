@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PF-Enrutados</string>
+    <string name="titulo_inicio">Hola a todos!!</string>
+    <string name="subtitulo_inicio">
+        Bievenido, gracias por instalar nuestra App!!
+        <br><b>Login</b>Estas listo para crearte una cuenta.</br>
+        <br><b>Registrate</b>Empieza con nuestra app</br>
+
+    </string>
+    <string name="ilustracion_imagen">Ilustracion imagen</string>
+</resources>

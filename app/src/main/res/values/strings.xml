@@ -1,11 +1,28 @@
 <resources>
     <string name="app_name">PF-Enrutados</string>
     <string name="titulo_inicio">Hola a todos!!</string>
+    <string name="titulo_login">Login :)</string>
     <string name="subtitulo_inicio">
         Bievenido, gracias por instalar nuestra App!!
         <br><b>Login</b>Estas listo para crearte una cuenta.</br>
         <br><b>Registrate</b>Empieza con nuestra app</br>
-
     </string>
     <string name="ilustracion_imagen">Ilustracion imagen</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="login_subtitulo"><font color="#0071BC"><b>Login</b></font> Estas listo para ingresar a tu cuenta</string>
+    <string name="login_email">Ingresa tu email aqui</string>
+    <string name="login_password">Tu contraseña aqui</string>
+    <string name="login_forgot_pw">Olvisdaste tu contraseña?</string>
+    <string name="login_havent_account">No tengo una cuenta<font color="#0071BC"><b>Registrarme</b></font></string>
+    <string name="register_titulo">Crea una cuenta</string>
+    <string name="register_subtitulo"><font color="#0071BC"><b>Register</b></font> Estas listo para crea tu cuenta</string>
+    <string name="register_fullname">Tu nombre completo aqui</string>
+    <string name="register_password">Tu contraseña aqui</string>
+    <string name="register_email">Tu correo aqui</string>
+    <string name="register_username">Tu nombre de usuario aqui</string>
+    <string name="reg_confirm_password">Confirma tu contraseña</string>
+    <string name="btn_registar">REGISTRAR</string>
+    <string name="login_have_account">Ya tengo una cuenta<font color="#0071BC"><b>Logearme</b></font></string>
+
+
 </resources>

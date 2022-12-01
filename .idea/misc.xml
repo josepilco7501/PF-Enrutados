@@ -4,9 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/jhpil/AndroidStudioProjects/PF-Enrutados/app/src/main/res/layout/activity_listar_paraderos.xml" value="0.25" />
-        <entry key="..\:/Users/jhpil/AndroidStudioProjects/PF-Enrutados/app/src/main/res/layout/activity_login.xml" value="0.3625" />
+        <entry key="..\:/Users/jhpil/AndroidStudioProjects/PF-Enrutados/app/src/main/res/layout/activity_login.xml" value="0.23796033994334279" />
+        <entry key="..\:/Users/jhpil/AndroidStudioProjects/PF-Enrutados/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/jhpil/AndroidStudioProjects/PF-Enrutados/app/src/main/res/layout/activity_mapa_distrito.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/jhpil/AndroidStudioProjects/PF-Enrutados/app/src/main/res/layout/activity_register.xml" value="0.25" />
         <entry key="..\:/Users/jhpil/AndroidStudioProjects/PF-Enrutados/app/src/main/res/layout/elementos_distritos.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/jhpil/AndroidStudioProjects/PF-Enrutados/app/src/main/res/layout/menu_agregar_distrito.xml" value="0.23233695652173914" />
+        <entry key="..\:/Users/jhpil/AndroidStudioProjects/PF-Enrutados/app/src/main/res/menu/menu_activity_mapadistrito.xml" value="0.3435185185185185" />
         <entry key="..\:/Users/jhpil/AndroidStudioProjects/PFEnrutados/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Users/jhpil/AndroidStudioProjects/PFEnrutados/app/src/main/res/drawable/ic_activity.xml" value="0.1625" />
         <entry key="..\:/Users/jhpil/AndroidStudioProjects/PFEnrutados/app/src/main/res/drawable/ic_iconmonstr_user_circle_thin.xml" value="0.1" />
@@ -16,6 +20,7 @@
         <entry key="..\:/Users/jhpil/AndroidStudioProjects/PFEnrutados/app/src/main/res/drawable/ic_mail_user.xml" value="0.124" />
         <entry key="..\:/Users/jhpil/AndroidStudioProjects/PFEnrutados/app/src/main/res/drawable/ic_user_solid.xml" value="0.1625" />
         <entry key="..\:/Users/jhpil/AndroidStudioProjects/PFEnrutados/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/jhpil/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_spinner_dropdown_item.xml" value="0.14235055724417425" />
       </map>
     </option>
   </component>

@@ -12,6 +12,7 @@
         android:layout_height="wrap_content"
         android:text="DISTRITO"
         android:textSize="30sp"
+        android:fontFamily="@font/roboto_slan_regular"
         android:background="@color/items_color"
         android:textColor="@color/white"
         android:gravity="center_vertical|center_horizontal"
@@ -24,9 +25,40 @@
         android:name="com.google.android.gms.maps.SupportMapFragment"
         android:layout_width="match_parent"
         android:layout_margin="10dp"
-        android:layout_height="350dp"
+        android:layout_height="270dp"
         android:layout_gravity="center_vertical|center_horizontal"
         tools:context=".MapaDistrito" />
+
+    <Spinner
+        android:id="@+id/spncambioruta"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Informacion"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+
+        android:layout_marginLeft="15dp"
+        android:fontFamily="@font/roboto_slan_regular"/>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/et_informacionruta"
+        android:textSize="18sp"
+        android:layout_marginLeft="15dp"/>
+    <ProgressBar
+        android:layout_margin="15dp"
+        android:id="@+id/idLoadingPB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+ />
+
 
 
 </LinearLayout>

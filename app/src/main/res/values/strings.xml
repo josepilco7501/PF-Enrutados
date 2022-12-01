@@ -27,5 +27,13 @@
     <string name="btn_registar">REGISTRAR</string>
     <string name="login_have_account">Ya tengo una cuenta<font color="#0071BC"><b>Logearme</b></font></string>
 
+    <string-array name="lista_tipos_mapas">
+        <item>None</item>
+        <item>Normal</item>
+        <item>Satellite</item>
+        <item>Hybrid</item>
+        <item>Terrain</item>
+    </string-array>
+
 
 </resources>

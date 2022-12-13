@@ -36,20 +36,12 @@
             android:layout_height="wrap_content"
             android:text="Buscar Nombre:"/>
         <SearchView
-            android:layout_width="290dp"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/txtBuscar"/>
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="+"
-            android:id="@+id/btnAgregar"/>
+
     </LinearLayout>
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="BUSCAR"
-        android:id="@+id/btnBuscar"/>
+
     <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

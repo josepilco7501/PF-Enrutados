@@ -25,39 +25,80 @@
         android:name="com.google.android.gms.maps.SupportMapFragment"
         android:layout_width="match_parent"
         android:layout_margin="10dp"
-        android:layout_height="270dp"
+        android:layout_height="420dp"
         android:layout_gravity="center_vertical|center_horizontal"
         tools:context=".MapaDistrito" />
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Siguiente paradero"
+        android:id="@+id/btnSiguienteParadero"/>
 
     <Spinner
         android:id="@+id/spncambioruta"
         android:layout_width="match_parent"
         android:layout_height="35dp"
-
         />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Informacion"
-        android:textColor="@color/black"
+        android:text="Información :"
+        android:textColor="@color/items_color"
         android:textSize="20sp"
         android:textStyle="bold"
-
         android:layout_marginLeft="15dp"
         android:fontFamily="@font/roboto_slan_regular"/>
-    <EditText
-        android:layout_width="wrap_content"
+    <LinearLayout
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/et_informacionruta"
-        android:textSize="18sp"
-        android:layout_marginLeft="15dp"/>
+        android:layout_marginLeft="15dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Distancia : \nDuración  :"
+            android:textSize="18sp"
+            android:textColor="@color/black"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/et_informacionruta"
+            android:textSize="20sp"
+            android:textColor="@color/items_color"
+            android:textStyle="bold"
+            android:layout_marginLeft="250dp"
+        />
+    </LinearLayout>
+
     <ProgressBar
-        android:layout_margin="15dp"
+        android:layout_margin="5dp"
         android:id="@+id/idLoadingPB"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
- />
+    />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="3dp"
+        >
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnInicio"
+            android:text="Ver punto incial"
+            android:layout_marginLeft="65dp"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnFinal"
+            android:layout_marginLeft="10dp"
+            android:text="Ver punto Final"/>
+
+    </LinearLayout>
+
 
 
 

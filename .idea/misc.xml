@@ -3,10 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/jhpil/AndroidStudioProjects/PF-Enrutados/app/src/main/res/layout/activity_agregar_ruta.xml" value="0.17603850050658562" />
+        <entry key="..\:/Users/jhpil/AndroidStudioProjects/PF-Enrutados/app/src/main/res/layout/activity_listado_distritos.xml" value="0.25" />
         <entry key="..\:/Users/jhpil/AndroidStudioProjects/PF-Enrutados/app/src/main/res/layout/activity_listar_paraderos.xml" value="0.25" />
         <entry key="..\:/Users/jhpil/AndroidStudioProjects/PF-Enrutados/app/src/main/res/layout/activity_login.xml" value="0.23796033994334279" />
         <entry key="..\:/Users/jhpil/AndroidStudioProjects/PF-Enrutados/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/jhpil/AndroidStudioProjects/PF-Enrutados/app/src/main/res/layout/activity_mapa_distrito.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/jhpil/AndroidStudioProjects/PF-Enrutados/app/src/main/res/layout/activity_paradero3_d.xml" value="0.13120567375886524" />
         <entry key="..\:/Users/jhpil/AndroidStudioProjects/PF-Enrutados/app/src/main/res/layout/activity_register.xml" value="0.25" />
         <entry key="..\:/Users/jhpil/AndroidStudioProjects/PF-Enrutados/app/src/main/res/layout/elementos_distritos.xml" value="0.22916666666666666" />
         <entry key="..\:/Users/jhpil/AndroidStudioProjects/PF-Enrutados/app/src/main/res/layout/menu_agregar_distrito.xml" value="0.23233695652173914" />

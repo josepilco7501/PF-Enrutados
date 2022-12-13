@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.miempresa.pf_enrutados">
 
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
@@ -17,9 +18,15 @@
         android:theme="@style/Theme.PFEnrutados"
         tools:targetApi="31">
         <activity
+            android:name=".ActivityAgregarRuta"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_Paradero3D"
+            android:exported="false" />
+        <activity
             android:name=".MapaDistrito"
             android:exported="false"
-            android:parentActivityName=".listadoDistritos"/>
+            android:parentActivityName=".listadoDistritos" />
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
